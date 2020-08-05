@@ -1,0 +1,18 @@
+
+                +  Discrete Simulator Output  +
+---------------------------------------------------------------
+
+Total Customers Served:                    494
+Total Service Time (All Customers):        258 mins
+Longest Customer Queue:                    6 Customers
+Customer Queue Average Length:             0.30 Customers
+Average time spent by Customer in Queue:   33.03 secs
+Percent of Customers who didnt Queue:      76.11%
+
+   ~Server details~
+Server         Amt Served   Time idle(secs)
+1              171          45
+2              102          52
+3              92           62
+4              69           81
+5              60           123
